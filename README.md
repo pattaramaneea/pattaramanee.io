@@ -25,12 +25,13 @@ My research interests are about deep representation learning in images, graphs, 
 
   *In IEEE International Conference on Awareness Science and Technology (iCAST), 2019* [[paper]](https://ieeexplore.ieee.org/abstract/document/8923126)
 
-  Pet-X got 2nd prize (without first prize) at [Thailand National Software Contest (NSC)](http://fic.nectec.or.th/nsc21_Decisions), 2019, under the "Applications for science and technologies" category.
+  * Pet-X got 2nd prize (without first prize) at [Thailand National Software Contest (NSC)](http://fic.nectec.or.th/nsc21_Decisions), 2019, under the "Applications for science and technologies" category.
  
-## Technical Skils
+## Technical Skills
 ### Programming languages
 * Python (professional)
 * JavaScript, CSS, PHP, Java, C#, R (limited)
+
 ### Frameworks, tools and libraries
 * PyTorch, Tensorflow2.X, Keras, PyTorch geometric, Tensorboard, matplotlib, numpy, scikit-learn, git, Linux (professional)
 * Node.js, React.js, Unity, Google Cloud Platform (limited)
