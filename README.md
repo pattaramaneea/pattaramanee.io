@@ -13,6 +13,12 @@ I received the B.Eng. degree in Computer engineering (first-class honor) from KM
 
 ## Research
 My research interests are about deep representation learning in images, graphs, and sets.
+* **Towards Pointsets Representation Learning via Self-Supervised Learning and Set Augmentation**
+
+  P Arsomngern, C Long, S Suwajanakorn, S Nutanong
+
+  *In IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022* [paper] [[code]](https://github.com/vistec-AI/WSSET)
+
 * **Self-Supervised Deep Metric Learning for Pointsets**
 
   P Arsomngern, C Long, S Suwajanakorn, S Nutanong
