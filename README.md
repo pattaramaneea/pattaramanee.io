@@ -5,13 +5,10 @@ Pattaramanee Arsomngern (Ploy)
 
 ภัทรมณี อาศรมเงิน (พลอย)
 
-Ph.D. student, School of Information Science and Technology,VISTEC, Thailand
+Ph.D. student, School of Information Science and Technology, VISTEC, Thailand
 
 
-E-mail: pattaramanee.a_s19 at vistec dot ac dot th | [GitHub](https://github.com/pattaramaneea) 
- | [Google Scholar](https://scholar.google.co.th/citations?user=xc-r7U8AAAAJ&hl=en) 
- | [DBLP](https://dblp.org/pid/256/8420.html) 
- | [Linkedin](https://www.linkedin.com/in/pattaramanee-arsomngern-053383167/?originalSubdomain=th) 
+E-mail: pattaramanee.a_s19 at vistec dot ac dot th | [GitHub](https://github.com/pattaramaneea) | [Google Scholar](https://scholar.google.co.th/citations?user=xc-r7U8AAAAJ&hl=en) | [DBLP](https://dblp.org/pid/256/8420.html) | [Linkedin](https://www.linkedin.com/in/pattaramanee-arsomngern-053383167/?originalSubdomain=th) 
 
 ## About
 I am currently a 3rd year CS Ph.D. student from the School of Information Science and Technology,VISTEC, Thailand. I am working with Prof. [Supasorn Suwajanakorn](http://www.supasorn.com/) as a part of members in [Vision & Learning Lab (VLL)](https://vistec.ist/vision) and Prof. [Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=en) as a part of members in [SCAlable Data System lab (SCADS)](https://vistec.ist/scads). I also collaborate with Asst. Prof. Dr. [Cheng Long](https://personal.ntu.edu.sg/c.long/) from Nanyang Technological University (NTU), Singapore. My works are to conduct cutting-edge AI researches and prepare for the Ph.D. proposal examination. I was granted 1M THB royal scholarship called "Srimedhi scholarship" for conducting research abroad. I am looking for a lab to join as a visiting Ph.D. student in 2023.
