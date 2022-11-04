@@ -46,13 +46,13 @@ My research interests are about representation learning in computer vision (i.e.
 
 ### Ongoing projects
 
-* 2D Representation Learning on Indoor Scene Understanding Tasks
+* **2D Representation Learning on Indoor Scene Understanding Tasks**
 
   **P Arsomngnern**, S Nutanong, S Suwajanakorn
   
   * Introducing a new way to learn a visual representation for better solving 2D Indoor Scene understanding tasks (i.e., semantic segmentation, object detection, and instance segmentation). This project introduces a novel technique to pre-train such a model that could given discriminative and useful visual and geometric prior for our desired downstream task without relying on pre-training on limited 3D indoor scenes as in prior works.
 
-* Heterogeneous Graph Representation Learning
+* **Heterogeneous Graph Representation Learning**
 
   (P Arsomngern as a co-author)
  
