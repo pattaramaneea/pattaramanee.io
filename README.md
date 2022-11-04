@@ -14,7 +14,7 @@ E-mail: pattaramanee.a_s19 at vistec dot ac dot th
 ## About
 I am currently a 4th year CS Ph.D. candidate from the School of Information Science and Technology,VISTEC, Thailand. I am under the supervision of Prof. [Supasorn Suwajanakorn](http://www.supasorn.com/) as a part of members in [Vision & Learning Lab (VLL)](https://vistec.ist/vision) and Prof. [Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=en) as a part of members in [SCAlable Data System lab (SCADS)](https://vistec.ist/scads) 
 and a team leader of Retrieval & Representation Learning research group.
-I also collaborate with Asst. Prof. Dr. [Cheng Long](https://personal.ntu.edu.sg/c.long/) from Nanyang Technological University (NTU), Singapore. I was granted 1M THB royal scholarship called "Srimedhi scholarship" for conducting research abroad. I am looking for a lab to join as an intern or a visiting Ph.D. student in 2023.
+I also collaborate with Asst. Prof. Dr. [Cheng Long](https://personal.ntu.edu.sg/c.long/) from Nanyang Technological University (NTU), Singapore. I was granted 27,000 USD Thai royal scholarship to conduct research overseas, thus I am seeking for a research team to join as an intern or a visiting Ph.D. student in 2023-2024.
 
 ## Bio
 I received the B.Eng. degree in Computer engineering (Top 5% of a class, first-class honors) from KMUTT, Thailand in 2019. My undergrad's final project is about anomaly detection on animal medical images, under the supervision of Prof. [Phond Phunchongharn](https://www.cpe.kmutt.ac.th/en/staff-detail/Phond). I did an internship during undergrad as a research assistant at Computer Networks and Communications Lab (CNCL)@NTU, and Chulabhorn Graduate Institute, Thailand.
