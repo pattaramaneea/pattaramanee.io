@@ -17,7 +17,7 @@ and a team leader of Retrieval & Representation Learning research group.
 I also collaborate with Asst. Prof. Dr. [Cheng Long](https://personal.ntu.edu.sg/c.long/) from Nanyang Technological University (NTU), Singapore. I was granted 1M THB royal scholarship called "Srimedhi scholarship" for conducting research abroad. I am looking for a lab to join as an intern or a visiting Ph.D. student in 2023.
 
 ## Bio
-I received the B.Eng. degree in Computer engineering (first-class honor) from KMUTT, Thailand in 2019. My undergrad's final project is about anomaly detection on animal medical images, under the supervision of Prof. [Phond Phunchongharn](https://www.cpe.kmutt.ac.th/en/staff-detail/Phond). I did an internship during undergrad as a research assistant at Computer Networks and Communications Lab (CNCL)@NTU, and Chulabhorn Graduate Institute, Thailand.
+I received the B.Eng. degree in Computer engineering (Top 5% of a class, first-class honors) from KMUTT, Thailand in 2019. My undergrad's final project is about anomaly detection on animal medical images, under the supervision of Prof. [Phond Phunchongharn](https://www.cpe.kmutt.ac.th/en/staff-detail/Phond). I did an internship during undergrad as a research assistant at Computer Networks and Communications Lab (CNCL)@NTU, and Chulabhorn Graduate Institute, Thailand.
 
 ## Research
 My research interests are about representation learning in computer vision (i.e., images and point clouds), graphs, and sets. Specifically, I have extensive experience in designing pre-training objectives for given specific downstream tasks (e.g., semantic segmentation, object detection, classification, or retrieval).
@@ -26,19 +26,19 @@ My research interests are about representation learning in computer vision (i.e.
 
 * **Towards Pointsets Representation Learning via Self-Supervised Learning and Set Augmentation**
 
-  P Arsomngern, C Long, S Suwajanakorn, S Nutanong
+  **P Arsomngern**, C Long, S Suwajanakorn, S Nutanong
 
-  *In IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022* [[paper]](https://ieeexplore.ieee.org/abstract/document/9665285/) [[code]](https://github.com/vistec-AI/WSSET) <span style="color: red">(IF: 24.314)</span>
+  *In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022* [[paper]](https://ieeexplore.ieee.org/abstract/document/9665285/) [[code]](https://github.com/vistec-AI/WSSET) <span style="color: red">(IF: 24.314)</span>
 
 * **Self-Supervised Deep Metric Learning for Pointsets**
 
-  P Arsomngern, C Long, S Suwajanakorn, S Nutanong
+  **P Arsomngern**, C Long, S Suwajanakorn, S Nutanong
 
   *In IEEE International Conference on Data Engineering (ICDE), 2021* [[paper]](https://ieeexplore.ieee.org/abstract/document/9458827) [[code]](https://github.com/vistec-AI/WSSET) <span style="color: red">(CORE A*)</span>
 
 * **Computer-aided diagnosis for lung lesion in companion animals from x-ray images using deep learning techniques**
 
-  P Arsomngern, N Numcharoenpinij, J Piriyataravet, W Teerapan, W Hinthong, P Phunchongharn
+  **P Arsomngern**, N Numcharoenpinij, J Piriyataravet, W Teerapan, W Hinthong, P Phunchongharn
 
   *In IEEE International Conference on Awareness Science and Technology (iCAST), 2019* [[paper]](https://ieeexplore.ieee.org/abstract/document/8923126)
 
@@ -48,7 +48,7 @@ My research interests are about representation learning in computer vision (i.e.
 
 * 2D Representation Learning on Indoor Scene Understanding Tasks
 
-  P Arsomngnern, S Nutanong, S Suwajanakorn
+  **P Arsomngnern**, S Nutanong, S Suwajanakorn
   
   * Introducing a new way to learn a visual representation for better solving 2D Indoor Scene understanding tasks (i.e., semantic segmentation, object detection, and instance segmentation). This project introduces a novel technique to pre-train such a model that could given discriminative and useful visual and geometric prior for our desired downstream task without relying on pre-training on limited 3D indoor scenes as in prior works.
 
