@@ -5,14 +5,14 @@
 ## Pattaramanee Arsomngern (Ploy)
 ภัทรมณี อาศรมเงิน (พลอย)
 
-Ph.D. student, School of Information Science and Technology, VISTEC, Thailand
+Ph.D. student, School of Information Science and Technology (VISTEC), Thailand
 
 E-mail: pattaramanee.a_s19 at vistec dot ac dot th
 
 [GitHub](https://github.com/pattaramaneea) \| [Google Scholar](https://scholar.google.co.th/citations?user=xc-r7U8AAAAJ&hl=en) \| [DBLP](https://dblp.org/pid/256/8420.html) \| [Linkedin](https://www.linkedin.com/in/pattaramanee-arsomngern-053383167/?originalSubdomain=th) 
 
 ## About
-I am currently a 4th year CS Ph.D. candidate from the School of Information Science and Technology,VISTEC, Thailand. I am under the supervision of Prof. [Supasorn Suwajanakorn](http://www.supasorn.com/) as a part of members in [Vision & Learning Lab (VLL)](https://vistec.ist/vision) and Prof. [Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=en) as a part of members in [SCAlable Data System lab (SCADS)](https://vistec.ist/scads) 
+I am currently a 4th year CS Ph.D. candidate from the School of Information Science and Technology (VISTEC), Thailand. I am under the supervision of Prof. [Supasorn Suwajanakorn](http://www.supasorn.com/) as a part of members in [Vision & Learning Lab (VLL)](https://vistec.ist/vision) and Prof. [Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=en) as a part of members in [SCAlable Data System lab (SCADS)](https://vistec.ist/scads) 
 and a team leader of Retrieval & Representation Learning research group.
 I also collaborate with Asst. Prof. Dr. [Cheng Long](https://personal.ntu.edu.sg/c.long/) from Nanyang Technological University (NTU), Singapore. I was granted 27,000 USD Thai royal scholarship to conduct research overseas, thus I am seeking for a research team to join as an intern or a visiting Ph.D. student in 2023-2024.
 
