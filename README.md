@@ -22,7 +22,7 @@ I received the B.Eng. degree in Computer engineering (Top 5% of a class, first-c
 ## Research
 My research interests are about representation learning in computer vision (i.e., images and point clouds), graphs, and sets. Specifically, I have extensive experience in designing pre-training objectives for given specific downstream tasks (e.g., semantic segmentation, object detection, classification, or retrieval).
 
-### Accepted articles 
+### Peer-reviewed articles 
 * **Learning Geometric-aware Properties in 2D Representation Using Lightweight CAD Models, or Zero Real 3D Pairs**
 
   **P Arsomngern**, S Nutanong, S Suwajanakorn 
