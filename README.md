@@ -22,7 +22,14 @@ I received the B.Eng. degree in Computer engineering (Top 5% of a class, first-c
 ## Research
 My research interests are about representation learning in computer vision (i.e., images and point clouds), graphs, and sets. Specifically, I have extensive experience in designing pre-training objectives for given specific downstream tasks (e.g., semantic segmentation, object detection, classification, or retrieval).
 
-### Published articles 
+### Accepted articles 
+* **Learning Geometric-aware Properties in 2D Representation Using Lightweight CAD Models, or Zero Real 3D Pairs**
+
+  **P Arsomngern**, S Nutanong, S Suwajanakorn 
+  
+  *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023* [paper] [code] <span style="color: red">(#1 Engineering & CS at Google Scholar, CORE A*)</span>
+  
+  * Introducing a new way to learn a visual representation for better solving 2D Indoor Scene understanding tasks (i.e., semantic segmentation, object detection, and instance segmentation). This project introduces a novel technique to pre-train such a model that could given discriminative and useful visual and geometric prior for our desired downstream task without relying on pre-training on limited 3D indoor scenes as in prior works.
 
 * **Towards Pointsets Representation Learning via Self-Supervised Learning and Set Augmentation**
 
@@ -46,17 +53,15 @@ My research interests are about representation learning in computer vision (i.e.
 
 ### Ongoing projects
 
-* **2D Representation Learning on Indoor Scene Understanding Tasks**
-
-  **P Arsomngnern**, S Nutanong, S Suwajanakorn
-  
-  * Introducing a new way to learn a visual representation for better solving 2D Indoor Scene understanding tasks (i.e., semantic segmentation, object detection, and instance segmentation). This project introduces a novel technique to pre-train such a model that could given discriminative and useful visual and geometric prior for our desired downstream task without relying on pre-training on limited 3D indoor scenes as in prior works.
-
 * **Heterogeneous Graph Representation Learning**
 
   (P Arsomngern as a co-author)
  
   * Exploring an alternative method to self-discrimination learning the representation based on augmented heterogeneous graph structures.
+
+* **Deep Fake Video Retrieval**
+
+  (P Arsomngern as a co-author)
 
 ## Academic Services
 * Journal invited reviewer: IEEE TPAMI
