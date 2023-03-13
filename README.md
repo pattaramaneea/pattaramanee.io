@@ -27,7 +27,7 @@ My research interests are about representation learning in computer vision (i.e.
 
   **P Arsomngern**, S Nutanong, S Suwajanakorn 
   
-  *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023* [paper] [code] <span style="color: red">(CORE A*, #1 publication in Engineering & CS at Google Scholar)</span>
+  *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023* [paper] [code] <span style="color: red">(CORE A*)</span>
   
   * Introducing a new way to learn a visual representation for better solving 2D Indoor Scene understanding tasks (i.e., semantic segmentation, object detection, and instance segmentation). This project introduces a novel technique to pre-train such a model that could given discriminative and useful visual and geometric prior for our desired downstream task without relying on pre-training on limited 3D indoor scenes as in prior works.
 
