@@ -27,7 +27,7 @@ My research interests are about representation learning in computer vision (i.e.
 
   **P Arsomngern**, S Nutanong, S Suwajanakorn 
   
-  *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023* [paper] [code] <span style="color: red">(CORE A*)</span>
+  *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023* [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Arsomngern_Learning_Geometric-Aware_Properties_in_2D_Representation_Using_Lightweight_CAD_Models_CVPR_2023_paper.html) [[project page]](https://geoaware2drepusingcad.github.io/) <span style="color: red">(CORE A*)</span>
   
   * Introducing a new way to learn a visual representation for better solving 2D Indoor Scene understanding tasks (i.e., semantic segmentation, object detection, and instance segmentation). This project introduces a novel technique to pre-train such a model that could given discriminative and useful visual and geometric prior for our desired downstream task without relying on pre-training on limited 3D indoor scenes as in prior works.
 
